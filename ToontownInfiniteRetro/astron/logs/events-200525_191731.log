@@ -1,0 +1,3 @@
+"2020-05-25 19:17:31",EventLogger,log_opened,"Log opened upon Event Logger startup."
+"2020-05-25 19:18:02","Client:1000000000","client-connected","186.212.223.32:53207","192.168.1.101:7198"
+"2020-05-25 19:18:10","Client:1000000000","client-disconnected"

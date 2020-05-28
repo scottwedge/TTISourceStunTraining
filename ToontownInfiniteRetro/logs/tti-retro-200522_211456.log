@@ -1,0 +1,107 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x235860A8>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+Current position= (-90.182,  -120.310,  0.025), H: -466.847, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -458.047, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -452.529, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -420.789, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -451.341, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -414.685, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -376.136, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -350.925, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -306.502, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -260.157, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -221.809, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -175.052, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -115.134, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -93.361, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -83.207, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -87.591, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -92.361, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-96.848,  -118.911,  0.025), H: -88.039, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-93.505,  -119.788,  0.025), H: -34.708, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-94.144,  -115.451,  0.025), H: 77.882, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-94.144,  -115.451,  0.025), H: 85.788, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-92.589,  -110.418,  0.025), H: -88.110, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-95.956,  -110.529,  0.025), H: -88.110, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.944,  -134.094,  0.025), H: 75.285, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.944,  -134.094,  0.025), H: 79.755, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-95.445,  -112.709,  0.025), H: 84.074, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-102.434,  -111.983,  0.025), H: 84.074, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-102.434,  -111.983,  0.025), H: 68.191, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-93.349,  -112.928,  0.025), H: -94.361, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-86.364,  -121.576,  0.025), H: -125.027, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-85.621,  -124.809,  0.025), H: -88.153, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-85.703,  -124.751,  0.025), H: -88.153, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-84.166,  -125.150,  0.025), H: -101.479, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-85.856,  -124.807,  0.025), H: -101.479, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+frame rate: 84.9 fps|0.002d|0 avs||345|350||0x10de|0x11c8|492.4MB|536.2MB|8136.0MB|1225|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+Current position= (-86.039,  -124.460,  0.025), H: -96.121, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-85.823,  -124.668,  0.025), H: -96.121, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-84.219,  -129.128,  0.025), H: -167.435, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-82.796,  -136.319,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-82.736,  -141.032,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-82.676,  -145.700,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-82.602,  -151.523,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.592,  -152.672,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.634,  -149.359,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.672,  -146.405,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.704,  -143.881,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.733,  -141.617,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.759,  -139.541,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.789,  -137.167,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.816,  -135.050,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.839,  -133.242,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.879,  -130.061,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.904,  -128.133,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.926,  -126.406,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.926,  -126.406,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.968,  -123.094,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-82.003,  -120.334,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-82.033,  -117.972,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.995,  -120.976,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.931,  -125.982,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.882,  -129.899,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.829,  -134.059,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.774,  -138.341,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.720,  -142.586,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.676,  -146.036,  0.025), H: -179.272, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-80.556,  -124.306,  0.025), H: -1.489, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-80.174,  -111.931,  0.025), H: -1.489, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-80.088,  -109.963,  0.025), H: -1.489, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-82.742,  -109.963,  0.025), H: 57.622, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-86.364,  -109.963,  0.025), H: 57.622, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-83.219,  -98.071,  0.025), H: -14.486, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-83.564,  -100.152,  0.025), H: -14.486, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-83.564,  -100.152,  0.025), H: -6.369, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-83.564,  -100.152,  0.025), H: -2.291, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-80.887,  -94.346,  0.025), H: 67.082, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-88.854,  -90.870,  0.025), H: 75.075, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-93.564,  -89.445,  0.025), H: 75.075, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-91.945,  -88.910,  0.025), H: 75.075, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-89.734,  -89.500,  0.025), H: 75.075, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-87.600,  -90.068,  0.025), H: 75.075, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-87.958,  -89.973,  0.025), H: 75.075, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-91.681,  -88.981,  0.025), H: 75.075, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-93.564,  -88.051,  0.025), H: 75.075, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville

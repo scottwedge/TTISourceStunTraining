@@ -1,0 +1,45 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x28617D50>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_3.5/dna/storage_tutorial.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_3.5/dna/tutorial_street.dna
+Hello there im a distributedTutorialInteriorAI
+Setting up Toontorial dna! :D
+Reading DNA file... phase_3.5/dna/tutorial_street.dna
+Battle Event localtoon-battle-event-3
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+entering active SC menu
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+updating achievements page
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 72.0 fps|0.041d|2 avs||351|358||0x1002|0x6739|478.5MB|513.5MB|14307.2MB|1451|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+handleButton
+0.0 6.1500005722 -1.20000004768 0.800000011921
+LPoint3f(-3.667, 0.05, -2.9)
+updating achievements page
+ignoring InputState-forward

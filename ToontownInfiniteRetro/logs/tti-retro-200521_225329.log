@@ -1,0 +1,59 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2E379FD0>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 82.2 fps|0.002d|1 avs||345|352||0x10de|0x11c8|429.7MB|470.4MB|8136.0MB|1140|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 53.0 fps|0.013d|1 avs||645|652||0x10de|0x11c8|429.9MB|470.5MB|8136.0MB|1148|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 99.4 fps|0.001d|0 avs||945|952||0x10de|0x11c8|396.1MB|474.2MB|8136.0MB|1266|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 105.0 fps|0.008d|0 avs||1245|1252||0x10de|0x11c8|396.5MB|474.1MB|8136.0MB|1266|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 122.1 fps|0.001d|0 avs||1545|1552||0x10de|0x11c8|397.2MB|474.6MB|8136.0MB|1266|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_8/dna/storage_BR.dna
+Reading DNA file... phase_8/dna/storage_BR_sz.dna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.dna
+empty flat building with no walls
+DNALandmarkBuilding sb11:toon_landmark_BR_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/theBurrrgh/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 90.2 fps|0.001d|1 avs||1845|1852||0x10de|0x11c8|390.3MB|514.3MB|8136.0MB|1352|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 63.3 fps|0.002d|1 avs||2145|2152||0x10de|0x11c8|333.6MB|522.4MB|8136.0MB|1424|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL

@@ -1,0 +1,83 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x22DFB0A8>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+frame rate: 77.6 fps|0.002d|0 avs||358|367||0x10de|0x11c8|500.9MB|534.0MB|8136.0MB|1267|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 52.7 fps|0.021d|12 avs||658|667||0x10de|0x11c8|575.5MB|608.7MB|8136.0MB|1435|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 42.7 fps|0.004d|12 avs||958|967||0x10de|0x11c8|586.1MB|619.4MB|8136.0MB|1438|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 43.9 fps|0.004d|12 avs||1258|1267||0x10de|0x11c8|593.4MB|626.6MB|8136.0MB|1440|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 42.2 fps|0.005d|12 avs||1558|1567||0x10de|0x11c8|594.2MB|636.1MB|8136.0MB|1456|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+Traceback (most recent call last):
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1480, in handlePlayGame
+    self.handleGenerateWithRequired(di)
+  File "otp\distributed\OTPClientRepository.py", line 1944, in handleGenerateWithRequired
+    distObj = self.generateWithRequiredFields(dclass, doId, di, parentId, zoneId)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ClientRepositoryBase.py", line 265, in generateWithRequiredFields
+    distObj.updateRequiredFields(dclass, di)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\DistributedObject.py", line 337, in updateRequiredFields
+    self.announceGenerate()
+  File "toontown\building\DistributedDoor.py", line 203, in announceGenerate
+    self.doPostAnnounceGenerate()
+  File "toontown\building\DistributedDoor.py", line 210, in doPostAnnounceGenerate
+    self.bHasFlat = not self.findDoorNode('door*flat', True).isEmpty()
+AttributeError: 'NoneType' object has no attribute 'isEmpty'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 239, in run
+    taskMgr.run()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1480, in handlePlayGame
+    self.handleGenerateWithRequired(di)
+  File "otp\distributed\OTPClientRepository.py", line 1944, in handleGenerateWithRequired
+    distObj = self.generateWithRequiredFields(dclass, doId, di, parentId, zoneId)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ClientRepositoryBase.py", line 265, in generateWithRequiredFields
+    distObj.updateRequiredFields(dclass, di)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\DistributedObject.py", line 337, in updateRequiredFields
+    self.announceGenerate()
+  File "toontown\building\DistributedDoor.py", line 203, in announceGenerate
+    self.doPostAnnounceGenerate()
+  File "toontown\building\DistributedDoor.py", line 210, in doPostAnnounceGenerate
+    self.bHasFlat = not self.findDoorNode('door*flat', True).isEmpty()
+AttributeError: 'NoneType' object has no attribute 'isEmpty'

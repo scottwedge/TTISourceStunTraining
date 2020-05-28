@@ -1,0 +1,53 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x225C5148>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_8/dna/storage_BR.dna
+Reading DNA file... phase_8/dna/storage_BR_sz.dna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.dna
+empty flat building with no walls
+DNALandmarkBuilding sb11:toon_landmark_BR_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/theBurrrgh/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+bobobobobobobo
+Current position= (-93.441,  -116.800,  0.025), H: -358.684, Zone: 61007,, Ver: tti-retro-dev, , District: Retroville
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_8/dna/storage_BR.dna
+Reading DNA file... phase_8/dna/storage_BR_sz.dna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.dna
+empty flat building with no walls
+DNALandmarkBuilding sb11:toon_landmark_BR_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/theBurrrgh/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+frame rate: 56.9 fps|0.030d|2 avs||347|356||0x10de|0x11c8|392.9MB|472.1MB|8136.0MB|1612|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+handleButton
+0.0 7.15000009537 -1.20000004768 0.800000011921
+LPoint3f(-4.247, 0.05, -2.9)
+updating achievements page
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+updating achievements page
+bobobobobobobo
+ignoring InputState-forward

@@ -1,0 +1,508 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x255F34B8>}
+NameShop: Couldn't find von
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+entering active SC menu
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 58.1 fps|0.017d|0 avs||336|340||0x1002|0x6739|751.0MB|756.5MB|14307.2MB|863|nt.2.6.1|3.292,3.292|4,4 cpus|DirectX9
+entering active SC menu
+entering active SC menu
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+spec = {'parentEntId': 10014, 'pos': LPoint3f(0, 0, 0)}
+h = None
+doors enter state 1
+openInnerDoors
+openInnerDoors stage Two
+Battle Event localtoon-battle-event-3
+frame rate: 59.5 fps|0.004d|6 avs||636|640||0x1002|0x6739|788.6MB|793.8MB|14307.2MB|873|nt.2.6.1|3.292,3.292|4,4 cpus|DirectX9
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+frame rate: 42.0 fps|0.015d|10 avs||936|940||0x1002|0x6739|823.0MB|828.4MB|14307.2MB|882|nt.2.6.1|3.292,3.292|4,4 cpus|DirectX9
+spec = {'parentEntId': 20058, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Battle Event localtoon-battle-event-9
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+entering active SC menu
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+openInnerDoors stage Two
+spec = {'parentEntId': 10047, 'pos': LPoint3f(0, 0, 0)}
+h = None
+Battle Event localtoon-battle-event-15
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+spec = {'parentEntId': 10068, 'pos': LPoint3f(-20, -10, 0)}
+h = None
+Battle Event localtoon-battle-event-21
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+chooseFireOpenShot <function allGroupLowShot at 0x1956D270>
+chooseFireOpenShot <function allGroupLowShot at 0x1956D270>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+doors enter state 1
+openInnerDoors
+openInnerDoors
+openInnerDoors stage Two
+doors enter state 1
+openInnerDoors
+spec = {'parentEntId': 10064, 'pos': LPoint3f(0, 0, 0)}
+h = None
+openInnerDoors
+openInnerDoors stage Two
+Battle Event localtoon-battle-event-27
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+### newVec3 =  LVector3f(-1.99998, 11.3, 1.5)
+### newVec3 =  LVector3f(-1.99998, 11.3, 0)
+### newVec3 =  LVector3f(-1.99998, 11.3, 0.375)
+### newVec3 =  LVector3f(-1.99998, 11.3, 0)
+frame rate: 59.8 fps|0.002d|7 avs||1236|1240||0x1002|0x6739|845.9MB|850.4MB|14307.2MB|888|nt.2.6.1|3.292,3.292|4,4 cpus|DirectX9
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+phase_3/audio/sfx
+phase_3.5/audio/sfx
+phase_4/audio/sfx
+phase_5/audio/sfx
+resources/phase_3/audio/sfx
+resources/phase_3.5/audio/sfx
+resources/phase_4/audio/sfx
+resources/phase_5/audio/sfx
+
+Reading DNA file... phase_8/dna/storage_DG.dna
+Reading DNA file... phase_8/dna/storage_DG_sz.dna
+Reading DNA file... phase_8/dna/daisys_garden_sz.dna
+fisherman origin:  render/loader_data/daisysGarden/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+vpelevator
+vpelevator2
+vp_setup elevator
+frame rate: 52.6 fps|0.065d|24 avs||1536|1540||0x1002|0x6739|887.9MB|891.9MB|14307.2MB|954|nt.2.6.1|3.292,3.292|4,4 cpus|DirectX9
+Reading DNA file... phase_8/dna/storage_DG.dna
+Reading DNA file... phase_8/dna/storage_DG_sz.dna
+Reading DNA file... phase_8/dna/daisys_garden_sz.dna
+fisherman origin:  render/loader_data/daisysGarden/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 57.5 fps|0.002d|2 avs||1836|1840||0x1002|0x6739|912.9MB|916.7MB|14307.2MB|982|nt.2.6.1|3.292,3.292|4,4 cpus|DirectX9
+ignoring InputState-forward

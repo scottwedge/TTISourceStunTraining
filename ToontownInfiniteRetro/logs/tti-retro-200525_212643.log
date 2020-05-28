@@ -1,0 +1,107 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x235AAF58>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_GZ.dna
+Reading DNA file... phase_6/dna/storage_GZ_sz.dna
+Reading DNA file... phase_6/dna/golf_zone_sz.dna
+Traceback (most recent call last):
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\EventManager.py", line 61, in eventLoopTask
+    self.doEvents()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\EventManager.py", line 55, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\EventManager.py", line 122, in processEvent
+    messenger.send(eventName, paramList)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\gui\DirectEntry.py", line 183, in failedCommandFunc
+    apply(self['failedCommand'], [self.get()] + self['failedExtraArgs'])
+  File "otp\chat\ChatInputWhiteListFrame.py", line 250, in sendFailed
+    self.sendChat(text)
+  File "toontown\chat\TTChatInputWhiteList.py", line 105, in sendChat
+    ChatInputWhiteListFrame.sendChat(self, self.chatEntry.get())
+  File "otp\chat\ChatInputWhiteListFrame.py", line 201, in sendChat
+    self.sendChatBySwitch(text)
+  File "otp\chat\ChatInputWhiteListFrame.py", line 220, in sendChatBySwitch
+    self.sendChatByData(text)
+  File "toontown\chat\TTChatInputWhiteList.py", line 114, in sendChatByData
+    base.talkAssistant.sendOpenTalk(text)
+  File "otp\chat\TalkAssistant.py", line 628, in sendOpenTalk
+    base.cr.chatAgent.sendChatMessage(message)
+  File "otp\chat\ChatAgent.py", line 20, in sendChatMessage
+    self.sendUpdate('chatMessage', [message])
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\DistributedObject.py", line 359, in sendUpdate
+    fieldName, sendToId or self.doId, args)
+TypeError: Incorrect arguments to field: chatMessage[u'\xe9']
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 239, in run
+    taskMgr.run()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\EventManager.py", line 61, in eventLoopTask
+    self.doEvents()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\EventManager.py", line 55, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\EventManager.py", line 122, in processEvent
+    messenger.send(eventName, paramList)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\gui\DirectEntry.py", line 183, in failedCommandFunc
+    apply(self['failedCommand'], [self.get()] + self['failedExtraArgs'])
+  File "otp\chat\ChatInputWhiteListFrame.py", line 250, in sendFailed
+    self.sendChat(text)
+  File "toontown\chat\TTChatInputWhiteList.py", line 105, in sendChat
+    ChatInputWhiteListFrame.sendChat(self, self.chatEntry.get())
+  File "otp\chat\ChatInputWhiteListFrame.py", line 201, in sendChat
+    self.sendChatBySwitch(text)
+  File "otp\chat\ChatInputWhiteListFrame.py", line 220, in sendChatBySwitch
+    self.sendChatByData(text)
+  File "toontown\chat\TTChatInputWhiteList.py", line 114, in sendChatByData
+    base.talkAssistant.sendOpenTalk(text)
+  File "otp\chat\TalkAssistant.py", line 628, in sendOpenTalk
+    base.cr.chatAgent.sendChatMessage(message)
+  File "otp\chat\ChatAgent.py", line 20, in sendChatMessage
+    self.sendUpdate('chatMessage', [message])
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\DistributedObject.py", line 359, in sendUpdate
+    fieldName, sendToId or self.doId, args)
+TypeError: Incorrect arguments to field: chatMessage[u'\xe9']
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+WindowsError: [Error 3] O sistema não pode encontrar o caminho especificado: 'c:\\users\\oandre\\appdata\\local\\temp\\tmp4qhqyo/*.*'
+Error in sys.exitfunc:
+Traceback (most recent call last):
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\ShowBase.py", line 513, in exitfunc
+    self.oldexitfunc()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+WindowsError: [Error 3] O sistema não pode encontrar o caminho especificado: 'c:\\users\\oandre\\appdata\\local\\temp\\tmp4qhqyo/*.*'

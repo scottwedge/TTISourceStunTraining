@@ -1,0 +1,44 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x27D6B1E8>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+bobobobobobobo
+Current position= (-29.375,  -48.044,  6.445), H: -35.595, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-25.762,  -42.996,  5.708), H: -35.595, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-16.165,  -29.589,  7.026), H: -35.595, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-13.201,  -24.518,  7.026), H: -25.151, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-10.164,  -17.945,  7.026), H: -19.298, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-8.696,  -12.158,  7.026), H: -13.457, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-7.453,  -5.124,  7.068), H: 0.068, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-7.460,  0.667,  7.241), H: 0.068, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-8.089,  0.192,  7.280), H: -117.188, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-6.301,  -0.727,  7.472), H: -87.519, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-3.381,  -0.398,  7.544), H: -83.575, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (1.769,  0.182,  7.880), H: -84.879, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (6.389,  -0.242,  8.140), H: -102.331, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (7.629,  0.692,  8.412), H: -232.809, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-6.962,  0.254,  7.315), H: -235.265, Zone: 61014,, Ver: tti-retro-dev, , District: Retroville

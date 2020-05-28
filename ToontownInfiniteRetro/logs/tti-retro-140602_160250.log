@@ -1,0 +1,144 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2458FE90>}
+entering active SC menu
+local
+2
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+frame rate: 102.1 fps|0.003d|2 avs||334|341||0x1002|0x6739|464.8MB|523.8MB|14307.2MB|2420|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+entering active SC menu
+updating achievements page
+entering active SC menu
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+frame rate: 49.5 fps|0.022d|5 avs||634|641||0x1002|0x6739|494.9MB|532.5MB|14307.2MB|4964|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+updating achievements page
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_5/dna/storage_TT_town.dna
+Reading DNA file... phase_5/dna/toontown_central_2300.dna
+DNALandmarkBuilding sb32:toon_landmark_hqTT_DNARoot did not find **/*suit_building_origin
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+fisherman origin:  render/town_top_level/toontownCentral/2341/fishing_pond_1/npc_fisherman_origin_0
+fisherman origin:  render/town_top_level/toontownCentral/2341/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+frame rate: 45.5 fps|0.069d|5 avs||934|941||0x1002|0x6739|585.6MB|623.1MB|14307.2MB|8171|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+frame rate: 58.2 fps|0.001d|2 avs||1234|1241||0x1002|0x6739|587.0MB|624.1MB|14307.2MB|10727|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+frame rate: 42.2 fps|0.017d|6 avs||1534|1541||0x1002|0x6739|592.2MB|629.2MB|14307.2MB|13094|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+updating achievements page
+updating achievements page
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+entering active SC menu
+entering active SC menu
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+frame rate: 57.2 fps|0.004d|0 avs||1834|1841||0x1002|0x6739|608.3MB|645.0MB|14307.2MB|16551|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+frame rate: 37.5 fps|0.002d|2 avs||2134|2141||0x1002|0x6739|615.3MB|652.2MB|14307.2MB|18461|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+updating achievements page
+updating achievements page
+ignoring InputState-forward

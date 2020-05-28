@@ -1,0 +1,87 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x215DD828>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_GZ.dna
+Reading DNA file... phase_6/dna/storage_GZ_sz.dna
+Reading DNA file... phase_6/dna/golf_zone_sz.dna
+DirectStart: Starting the game.
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 11, in <module>
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\directbase\DirectStart.py", line 4, in <module>
+    base = ShowBase.ShowBase()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\ShowBase.py", line 316, in __init__
+    raise StandardError, "Attempt to spawn multiple ShowBase instances!"
+StandardError: Attempt to spawn multiple ShowBase instances!
+
+DirectStart: Starting the game.
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 11, in <module>
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\directbase\DirectStart.py", line 4, in <module>
+    base = ShowBase.ShowBase()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\ShowBase.py", line 316, in __init__
+    raise StandardError, "Attempt to spawn multiple ShowBase instances!"
+StandardError: Attempt to spawn multiple ShowBase instances!
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 24
+    model.setPos(pos.x,pos.y,pos.z)
+                                  ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 24
+    model.setPos(pos.x,pos.y,pos.z)
+                                  ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 24
+    model.setPos(pos.x,pos.y,pos.z)
+                                  ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 24
+    model.setPos(pos.x,pos.y,pos.z)
+                                  ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 24
+    model.setPos(pos.x,pos.y,pos.z)
+                                  ^
+SyntaxError: invalid syntax
+
+DirectStart: Starting the game.
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 11, in <module>
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\directbase\DirectStart.py", line 4, in <module>
+    base = ShowBase.ShowBase()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\ShowBase.py", line 316, in __init__
+    raise StandardError, "Attempt to spawn multiple ShowBase instances!"
+StandardError: Attempt to spawn multiple ShowBase instances!
+
+frame rate: 103.5 fps|0.003d|0 avs||335|340||0x10de|0x11c8|405.8MB|450.8MB|8136.0MB|983|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL

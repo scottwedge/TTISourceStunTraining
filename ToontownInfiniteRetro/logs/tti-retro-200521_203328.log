@@ -1,0 +1,56 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x236F4F80>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+frame rate: 42.0 fps|0.005d|12 avs||346|359||0x10de|0x11c8|493.3MB|547.5MB|8136.0MB|820|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 39.2 fps|0.005d|12 avs||646|659||0x10de|0x11c8|501.2MB|555.5MB|8136.0MB|822|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 37.0 fps|0.007d|12 avs||946|959||0x10de|0x11c8|512.2MB|566.6MB|8136.0MB|825|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 40.2 fps|0.005d|12 avs||1246|1259||0x10de|0x11c8|519.7MB|574.5MB|8136.0MB|827|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+Reading DNA file... phase_8/dna/storage_BR.dna
+Reading DNA file... phase_8/dna/storage_BR_sz.dna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.dna
+empty flat building with no walls
+DNALandmarkBuilding sb11:toon_landmark_BR_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/theBurrrgh/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 41.3 fps|0.005d|12 avs||1546|1559||0x10de|0x11c8|607.4MB|682.0MB|8136.0MB|911|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 38.2 fps|0.004d|12 avs||1846|1859||0x10de|0x11c8|630.5MB|705.1MB|8136.0MB|917|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 35.3 fps|0.005d|12 avs||2146|2159||0x10de|0x11c8|491.2MB|734.0MB|8136.0MB|924|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+ignoring InputState-forward
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+WindowsError: [Error 3] O sistema não pode encontrar o caminho especificado: 'c:\\users\\oandre\\appdata\\local\\temp\\tmpgnqf4z/*.*'
+Error in sys.exitfunc:
+Traceback (most recent call last):
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\ShowBase.py", line 513, in exitfunc
+    self.oldexitfunc()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\shutil.py", line 239, in rmtree
+    onerror(os.listdir, path, sys.exc_info())
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\shutil.py", line 237, in rmtree
+    names = os.listdir(path)
+WindowsError: [Error 3] O sistema não pode encontrar o caminho especificado: 'c:\\users\\oandre\\appdata\\local\\temp\\tmpgnqf4z/*.*'

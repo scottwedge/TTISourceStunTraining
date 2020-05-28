@@ -1,0 +1,115 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{414000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x246199E0>, 432000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2461B1E8>, 489000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2461B2D8>, 455000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2461B260>, 411000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x24619828>, 404000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x246190F8>, 412000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x24619B98>, 405000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x24619350>, 434000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2461B238>, 420000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2461B1C0>, 477000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2461B288>, 407000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x24619580>, 471000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2461B300>, 415000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x24619B70>, 408000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x24619698>, 401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2460B328>, 413000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x246198F0>, 416000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2461B148>, 409000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x24619738>, 402000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x24617760>, 417000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2461B198>, 410000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x24619918>, 403000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x246190A8>}
+entering active SC menu
+local
+5
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_GZ.dna
+Reading DNA file... phase_6/dna/storage_GZ_sz.dna
+Reading DNA file... phase_6/dna/golf_zone_sz.dna
+updating achievements page
+updating achievements page
+0.0 6.66250085831 -1.20000004768 0.800000011921
+LPoint3f(-3.96425, 0.05, -2.9)
+frame rate: 61.5 fps|0.016d|1 avs||333|339||0x1002|0x6739|463.8MB|524.5MB|14307.2MB|1192|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 66.3 fps|0.016d|1 avs||633|639||0x1002|0x6739|499.2MB|560.0MB|14307.2MB|1220|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 54.8 fps|0.016d|1 avs||933|939||0x1002|0x6739|525.1MB|585.6MB|14307.2MB|1227|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 47.4 fps|0.017d|1 avs||1233|1239||0x1002|0x6739|549.1MB|609.7MB|14307.2MB|1233|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+entering active SC menu
+entering active SC menu
+entering active SC menu
+entering active SC menu
+GOLF COURSE CLEANUP
+GOLF COURSE DELETE
+updating achievements page
+frame rate: 52.0 fps|0.021d|1 avs||1533|1539||0x1002|0x6739|561.7MB|622.1MB|14307.2MB|1239|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+frame rate: 78.1 fps|0.009d|1 avs||1833|1839||0x1002|0x6739|604.3MB|664.4MB|14307.2MB|1443|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+0.0 6.4375 -1.20000004768 0.800000011921
+LPoint3f(-3.83375, 0.05, -2.9)
+entering active SC menu
+entering active SC menu
+entering active SC menu
+frame rate: 108.9 fps|0.008d|1 avs||2133|2139||0x1002|0x6739|642.5MB|703.1MB|14307.2MB|1453|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 63.8 fps|0.018d|1 avs||2433|2439||0x1002|0x6739|676.0MB|736.8MB|14307.2MB|1462|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+GOLF COURSE CLEANUP
+GOLF COURSE DELETE
+updating achievements page
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 49.6 fps|0.021d|1 avs||2733|2739||0x1002|0x6739|682.0MB|742.7MB|14307.2MB|1552|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 43.6 fps|0.021d|1 avs||3033|3039||0x1002|0x6739|682.4MB|743.0MB|14307.2MB|1552|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 60.8 fps|0.001d|1 avs||3333|3339||0x1002|0x6739|682.5MB|743.2MB|14307.2MB|1552|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+updating achievements page
+updating achievements page
+frame rate: 124.1 fps|0.003d|2 avs||3633|3639||0x1002|0x6739|720.0MB|780.4MB|14307.2MB|1614|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 116.6 fps|0.004d|2 avs||3933|3939||0x1002|0x6739|754.1MB|814.3MB|14307.2MB|1623|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+0.0 6.4375 -1.20000004768 0.800000011921
+LPoint3f(-3.83375, 0.05, -2.9)
+0.0 6.96250009537 -1.20000004768 0.800000011921
+LPoint3f(-4.13825, 0.05, -2.9)
+frame rate: 95.6 fps|0.006d|2 avs||4233|4239||0x1002|0x6739|765.3MB|826.0MB|14307.2MB|1626|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 100.1 fps|0.005d|2 avs||4533|4539||0x1002|0x6739|777.9MB|838.6MB|14307.2MB|1629|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+0.0 6.4375 -1.20000004768 0.800000011921
+LPoint3f(-3.83375, 0.05, -2.9)
+frame rate: 118.8 fps|0.004d|2 avs||4833|4839||0x1002|0x6739|800.0MB|860.6MB|14307.2MB|1654|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+GOLF COURSE CLEANUP
+GOLF COURSE DELETE
+updating achievements page
+updating achievements page
+frame rate: 52.5 fps|0.001d|1 avs||5133|5139||0x1002|0x6739|794.7MB|855.5MB|14307.2MB|1655|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 54.3 fps|0.001d|1 avs||5433|5439||0x1002|0x6739|794.8MB|855.4MB|14307.2MB|1656|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 54.4 fps|0.000d|1 avs||5733|5739||0x1002|0x6739|794.8MB|855.4MB|14307.2MB|1656|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+ignoring InputState-forward
+entering active SC menu
+local
+5
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_GZ.dna
+Reading DNA file... phase_6/dna/storage_GZ_sz.dna
+Reading DNA file... phase_6/dna/golf_zone_sz.dna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+updating achievements page
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+ToonAvatarDetailPanel None
+frame rate: 51.3 fps|0.001d|3 avs||7315|7321||0x1002|0x6739|838.9MB|878.6MB|14307.2MB|2135|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+ignoring InputState-forward

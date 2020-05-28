@@ -1,0 +1,97 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x22EE89B8>}
+entering active SC menu
+local
+2
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+updating achievements page
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5/dna/storage_town.dna
+Reading DNA file... phase_5/dna/storage_TT_town.dna
+Reading DNA file... phase_5/dna/toontown_central_2200.dna
+DNALandmarkBuilding sb42:toon_landmark_hqTT_DNARoot did not find **/*suit_building_origin
+Battle Event localtoon-battle-event-3
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1B19BF30>
+chooseFireOpenShot <function suitGroupThreeQuarterLeftBehindShot at 0x1B19BF30>
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 61, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 55, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 122, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.9.0\direct\gui\DirectButton.py", line 103, in commandFunc
+    apply(self['command'], self['extraArgs'])
+  File "toontown\battle\FireCogPanel.py", line 74, in __handleAvatar
+    messenger.send(self.doneEvent, [doneStatus])
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\town\TownBattle.py", line 588, in __handleCogFireDone
+    messenger.send(self.battleEvent, [response])
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\battle\DistributedBattleBase.py", line 1154, in __handleLocalToonBattleEvent
+    targetId = self.activeSuits[target].doId
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 238, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 61, in eventLoopTask
+    self.doEvents()
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 55, in doEvents
+    processFunc(self.eventQueue.dequeueEvent())
+  File "C:\Panda3D-1.9.0\direct\showbase\EventManager.py", line 122, in processEvent
+    messenger.send(eventName, paramList)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "C:\Panda3D-1.9.0\direct\gui\DirectButton.py", line 103, in commandFunc
+    apply(self['command'], self['extraArgs'])
+  File "toontown\battle\FireCogPanel.py", line 74, in __handleAvatar
+    messenger.send(self.doneEvent, [doneStatus])
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\town\TownBattle.py", line 588, in __handleCogFireDone
+    messenger.send(self.battleEvent, [response])
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 397, in send
+    self.__dispatch(acceptorDict, event, sentArgs, foundWatch)
+  File "C:\Panda3D-1.9.0\direct\showbase\Messenger.py", line 482, in __dispatch
+    method (*(extraArgs + sentArgs))
+  File "toontown\battle\DistributedBattleBase.py", line 1154, in __handleLocalToonBattleEvent
+    targetId = self.activeSuits[target].doId
+IndexError: list index out of range

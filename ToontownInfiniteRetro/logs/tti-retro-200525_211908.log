@@ -1,0 +1,64 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x235AAF08>}
+entering active SC menu
+Traceback (most recent call last):
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1871, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1765, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 910, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 347, in handleAvatarResponseMsg
+    localAvatar = LocalToon.LocalToon(self)
+  File "toontown\toon\LocalToon.py", line 82, in __init__
+    chatMgr = ToontownChatManager.ToontownChatManager(cr, self)
+  File "toontown\chat\ToontownChatManager.py", line 59, in __init__
+    self.chatInputWhiteList = TTChatInputWhiteList()
+  File "toontown\chat\TTChatInputWhiteList.py", line 35, in __init__
+    ChatInputWhiteListFrame.__init__(self, entryOptions, parent, **kw)
+  File "otp\chat\ChatInputWhiteListFrame.py", line 43, in __init__
+    self.chatEntry = DirectEntry(numLines = 7, width=12.6, relief = DGG.SUNKEN, scale=0.05, command=self.sendChat, failedCommand=self.sendFailed,entryFont=OPTGlobals.getInterfaceFont())
+NameError: global name 'OPTGlobals' is not defined
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 239, in run
+    taskMgr.run()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1871, in handleDatagram
+    self.handleMessageType(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1765, in handleMessageType
+    self.handleGenerateWithRequiredOtherOwner(di)
+  File "toontown\distributed\ToontownClientRepository.py", line 910, in handleGenerateWithRequiredOtherOwner
+    self.handleAvatarResponseMsg(doId, di)
+  File "toontown\distributed\ToontownClientRepository.py", line 347, in handleAvatarResponseMsg
+    localAvatar = LocalToon.LocalToon(self)
+  File "toontown\toon\LocalToon.py", line 82, in __init__
+    chatMgr = ToontownChatManager.ToontownChatManager(cr, self)
+  File "toontown\chat\ToontownChatManager.py", line 59, in __init__
+    self.chatInputWhiteList = TTChatInputWhiteList()
+  File "toontown\chat\TTChatInputWhiteList.py", line 35, in __init__
+    ChatInputWhiteListFrame.__init__(self, entryOptions, parent, **kw)
+  File "otp\chat\ChatInputWhiteListFrame.py", line 43, in __init__
+    self.chatEntry = DirectEntry(numLines = 7, width=12.6, relief = DGG.SUNKEN, scale=0.05, command=self.sendChat, failedCommand=self.sendFailed,entryFont=OPTGlobals.getInterfaceFont())
+NameError: global name 'OPTGlobals' is not defined

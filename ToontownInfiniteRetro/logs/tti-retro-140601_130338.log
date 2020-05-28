@@ -1,0 +1,74 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x296D6440>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_3.5/dna/storage_tutorial.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_3.5/dna/tutorial_street.dna
+Hello there im a distributedTutorialInteriorAI
+Setting up Toontorial dna! :D
+Reading DNA file... phase_3.5/dna/tutorial_street.dna
+Battle Event localtoon-battle-event-3
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+handleButton
+0.0 6.4375 -1.20000004768 0.800000011921
+LPoint3f(-3.83375, 0.05, -2.9)
+updating achievements page
+0.0 7.18749952316 -1.20000004768 0.800000011921
+LPoint3f(-4.26875, 0.05, -2.9)
+handleButton
+0.0 6.6375002861 -1.20000004768 0.800000011921
+LPoint3f(-3.94975, 0.05, -2.9)
+updating achievements page
+0.0 7.18749952316 -1.20000004768 0.800000011921
+LPoint3f(-4.26875, 0.05, -2.9)
+updating achievements page
+frame rate: 57.0 fps|0.010d|4 avs||327|334||0x1002|0x6739|484.8MB|520.4MB|14307.2MB|1261|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+0.0 5.4375 -0.20000000298 0.800000011921
+LPoint3f(-3.25375, 0.05, -2.4)
+updating achievements page
+frame rate: 45.4 fps|0.002d|5 avs||627|634||0x1002|0x6739|492.9MB|528.4MB|14307.2MB|1283|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+frame rate: 50.4 fps|0.008d|4 avs||927|934||0x1002|0x6739|495.9MB|530.8MB|14307.2MB|1296|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+frame rate: 49.4 fps|0.001d|4 avs||1227|1234||0x1002|0x6739|496.5MB|531.5MB|14307.2MB|1296|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+frame rate: 56.2 fps|0.002d|4 avs||1527|1534||0x1002|0x6739|506.3MB|541.3MB|14307.2MB|1299|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+0.0 6.4375 -1.20000004768 0.800000011921
+LPoint3f(-3.83375, 0.05, -2.9)
+frame rate: 52.8 fps|0.002d|3 avs||1827|1834||0x1002|0x6739|513.9MB|549.2MB|14307.2MB|1301|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 54.9 fps|0.001d|2 avs||2127|2134||0x1002|0x6739|515.1MB|550.2MB|14307.2MB|1301|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+frame rate: 57.5 fps|0.001d|2 avs||2427|2434||0x1002|0x6739|517.0MB|551.9MB|14307.2MB|1302|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+updating achievements page
+updating achievements page
+frame rate: 61.7 fps|0.001d|2 avs||2727|2734||0x1002|0x6739|517.5MB|552.4MB|14307.2MB|1302|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+ignoring InputState-forward

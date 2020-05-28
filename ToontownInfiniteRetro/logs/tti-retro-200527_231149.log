@@ -1,0 +1,49 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x304BA238>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_GZ.dna
+Reading DNA file... phase_6/dna/storage_GZ_sz.dna
+Reading DNA file... phase_6/dna/golf_zone_sz.dna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+bobobobobobobo
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 49.3 fps|0.006d|12 avs||331|335||0x10de|0x11c8|514.9MB|574.1MB|8136.0MB|1070|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 45.2 fps|0.005d|12 avs||631|635||0x10de|0x11c8|542.9MB|602.7MB|8136.0MB|1077|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 46.3 fps|0.004d|12 avs||931|935||0x10de|0x11c8|565.4MB|625.2MB|8136.0MB|1082|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+Reading DNA file... phase_8/dna/storage_BR.dna
+Reading DNA file... phase_8/dna/storage_BR_sz.dna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.dna
+empty flat building with no walls
+DNALandmarkBuilding sb11:toon_landmark_BR_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/theBurrrgh/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 52.5 fps|0.063d|18 avs||1231|1235||0x10de|0x11c8|607.8MB|668.3MB|8136.0MB|1171|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 41.6 fps|0.006d|12 avs||1531|1535||0x10de|0x11c8|694.1MB|755.0MB|8136.0MB|1194|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 45.7 fps|0.004d|12 avs||1831|1835||0x10de|0x11c8|626.0MB|780.3MB|8136.0MB|1201|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+ignoring InputState-forward

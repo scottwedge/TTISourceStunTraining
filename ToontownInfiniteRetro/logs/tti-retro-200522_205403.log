@@ -1,0 +1,30 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x235860A8>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+frame rate: 98.2 fps|0.003d|0 avs||336|341||0x10de|0x11c8|496.8MB|540.9MB|8136.0MB|1176|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+Current position= (-85.470,  -114.875,  0.025), H: -41.729, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-83.236,  -112.370,  0.025), H: -41.729, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-79.768,  -108.482,  0.025), H: -41.729, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-84.140,  -108.468,  0.025), H: -146.069, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-84.140,  -108.468,  0.025), H: -175.210, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville

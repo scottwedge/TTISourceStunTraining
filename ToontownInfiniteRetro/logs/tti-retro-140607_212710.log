@@ -1,0 +1,58 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x23E6B328>}
+entering active SC menu
+local
+4
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+ToonAvatarDetailPanel None
+ToonAvatarDetailPanel None
+ToonAvatarDetailPanel None
+updating achievements page
+ToonAvatarDetailPanel None
+updating achievements page
+frame rate: 55.1 fps|0.002d|3 avs||357|363||0x1002|0x6739|479.0MB|538.7MB|14307.2MB|4359|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+fisherman origin:  hidden/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+frame rate: 41.9 fps|0.005d|6 avs||657|663||0x1002|0x6739|503.0MB|562.0MB|14307.2MB|7562|nt.2.6.1|3.292,3.292|4,4 cpus|OpenGL
+ignoring InputState-forward
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x23E6B328>}

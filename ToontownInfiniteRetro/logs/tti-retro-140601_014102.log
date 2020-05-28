@@ -1,0 +1,75 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x1F786B98>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_3.5/dna/storage_tutorial.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_3.5/dna/tutorial_street.dna
+Hello there im a distributedTutorialInteriorAI
+Setting up Toontorial dna! :D
+Reading DNA file... phase_3.5/dna/tutorial_street.dna
+Battle Event localtoon-battle-event-3
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1889, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1498, in handlePlayGame
+    self.handleGenerateWithRequiredOther(di)
+  File "otp\distributed\OTPClientRepository.py", line 2007, in handleGenerateWithRequiredOther
+    self.doGenerate(parentId, zoneId, classId, doId, di)
+  File "C:\Panda3D-1.9.0\direct\distributed\ClientRepositoryBase.py", line 162, in doGenerate
+    distObj = self.generateWithRequiredOtherFields(dclass, doId, di, parentId, zoneId)
+  File "C:\Panda3D-1.9.0\direct\distributed\ClientRepositoryBase.py", line 313, in generateWithRequiredOtherFields
+    distObj.updateRequiredOtherFields(dclass, di)
+  File "C:\Panda3D-1.9.0\direct\distributed\DistributedObject.py", line 354, in updateRequiredOtherFields
+    dclass.receiveUpdateOther(self, di)
+  File "toontown\toon\DistributedNPCSpecialQuestGiver.py", line 143, in setMovie
+    base.cr.playGame.getPlace().setState('walk')
+AttributeError: 'NoneType' object has no attribute 'setState'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 238, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "C:\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1889, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1498, in handlePlayGame
+    self.handleGenerateWithRequiredOther(di)
+  File "otp\distributed\OTPClientRepository.py", line 2007, in handleGenerateWithRequiredOther
+    self.doGenerate(parentId, zoneId, classId, doId, di)
+  File "C:\Panda3D-1.9.0\direct\distributed\ClientRepositoryBase.py", line 162, in doGenerate
+    distObj = self.generateWithRequiredOtherFields(dclass, doId, di, parentId, zoneId)
+  File "C:\Panda3D-1.9.0\direct\distributed\ClientRepositoryBase.py", line 313, in generateWithRequiredOtherFields
+    distObj.updateRequiredOtherFields(dclass, di)
+  File "C:\Panda3D-1.9.0\direct\distributed\DistributedObject.py", line 354, in updateRequiredOtherFields
+    dclass.receiveUpdateOther(self, di)
+  File "toontown\toon\DistributedNPCSpecialQuestGiver.py", line 143, in setMovie
+    base.cr.playGame.getPlace().setState('walk')
+AttributeError: 'NoneType' object has no attribute 'setState'

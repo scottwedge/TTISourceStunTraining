@@ -1,0 +1,226 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x21619F08>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_6/dna/storage_OZ.dna
+Reading DNA file... phase_6/dna/storage_OZ_sz.dna
+Reading DNA file... phase_6/dna/outdoor_zone_sz.dna
+TIMER startTime 1899
+['spawnModel', 'phase_5.5/models/estate/fodase.bam', '79', '-1', '0']
+phase_5.5/models/estate/fodase.bam
+79
+-1
+0
+['spawnModel', 'phase_5.5/models/estate/houseA.bam', '89', '33', '1']
+phase_5.5/models/estate/houseA.bam
+89
+33
+1
+Reading DNA file... phase_6/dna/storage_GZ.dna
+Reading DNA file... phase_6/dna/storage_GZ_sz.dna
+Reading DNA file... phase_6/dna/golf_zone_sz.dna
+['spawnModel', 'phase_14/models/kitchen.bam', '22', '47', '0']
+phase_14/models/kitchen.bam
+22
+47
+0
+['spawnModel', 'phase_14/models/kitchen.bam', '-183', '122', '0']
+phase_14/models/kitchen.bam
+-183
+122
+0
+['spawnModel', 'phase_14/models/kitchen.bam', '-366', '-313', '0']
+phase_14/models/kitchen.bam
+-366
+-313
+0
+['spawnModel', 'phase_14/models/fla.bam', '2', '-487', '0']
+phase_14/models/fla.bam
+2
+-487
+0
+frame rate: 33.5 fps|0.012d|0 avs||333|338||0x10de|0x11c8|421.2MB|465.3MB|8136.0MB|1029|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+['spawnModel', 'phase_14/models/fla.bam', '43', '-54', '0']
+phase_14/models/fla.bam
+43
+-54
+0
+['spawnModel', 'phase_14/models/fla.bam', '37', '-34', '0']
+phase_14/models/fla.bam
+37
+-34
+0
+Current position= (40.019,  -58.661,  0.026), H: 4.011, Zone: 17000,, Ver: tti-retro-dev, , District: Retroville
+['spawnModel', 'phase_14/models/fla.bam', '40', '-58', '1']
+phase_14/models/fla.bam
+40
+-58
+1
+['spawnModel', 'phase_14/models/fla.bam', '32', '-45', '1']
+phase_14/models/fla.bam
+32
+-45
+1
+['spawnModel', 'phase_14/models/fla.bam', '25', '-34', '1']
+phase_14/models/fla.bam
+25
+-34
+1
+['spawnModel', 'phase_14/models/fla.bam', '17', '-22', '1']
+phase_14/models/fla.bam
+17
+-22
+1
+['spawnModel', 'phase_14/models/fla.bam', '9', '-11', '1']
+phase_14/models/fla.bam
+9
+-11
+1
+['spawnModel', 'phase_14/models/fla.bam', '0', '3', '1']
+phase_14/models/fla.bam
+0
+3
+1
+['spawnModel', 'phase_14/models/fla.bam', '-7', '13', '1']
+phase_14/models/fla.bam
+-7
+13
+1
+['spawnModel', 'phase_14/models/fla.bam', '-13', '22', '1']
+phase_14/models/fla.bam
+-13
+22
+1
+['spawnModel', 'phase_14/models/fla.bam', '-22', '35', '1']
+phase_14/models/fla.bam
+-22
+35
+1
+['spawnModel', 'phase_14/models/fla.bam', '-6', '45', '1']
+phase_14/models/fla.bam
+-6
+45
+1
+['spawnModel', 'phase_14/models/fla.bam', '6', '40', '1']
+phase_14/models/fla.bam
+6
+40
+1
+['spawnModel', 'phase_14/models/fla.bam', '14', '28', '1']
+phase_14/models/fla.bam
+14
+28
+1
+['spawnModel', 'phase_14/models/fla.bam', '19', '16', '1']
+phase_14/models/fla.bam
+19
+16
+1
+['spawnModel', 'phase_14/models/fla.bam', '25', '-2', '1']
+phase_14/models/fla.bam
+25
+-2
+1
+['spawnModel', 'phase_14/models/fla.bam', '33', '-13', '1']
+phase_14/models/fla.bam
+33
+-13
+1
+['spawnModel', 'phase_14/models/fla.bam', '42', '-24', '1']
+phase_14/models/fla.bam
+42
+-24
+1
+['spawnModel', 'phase_14/models/fla.bam', '49', '-37', '1']
+phase_14/models/fla.bam
+49
+-37
+1
+['spawnModel', 'phase_14/models/fla.bam', '56', '-51', '1']
+phase_14/models/fla.bam
+56
+-51
+1
+['spawnModel', 'phase_14/models/fla.bam', '53', '-66', '1']
+phase_14/models/fla.bam
+53
+-66
+1
+Current position= (24.433,  -18.321,  1.000), H: -322.251, Zone: 17000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-45.424,  64.911,  20.000), H: -354.786, Zone: 17000,, Ver: tti-retro-dev, , District: Retroville
+['spawnModel', 'phase_6/models/gui/BuyKartPanel.bam', '6', '-50', '0']
+phase_6/models/gui/BuyKartPanel.bam
+6
+-50
+0
+['spawnModel', 'phase_6/models/gui/BuyKartPanel.bam', '19', '-25', '2']
+phase_6/models/gui/BuyKartPanel.bam
+19
+-25
+2
+['spawnModel', 'phase_6/models/neighborhoods/donalds_dock.bam', '-5', '-7', '0']
+phase_6/models/neighborhoods/donalds_dock.bam
+-5
+-7
+0
+['spawnModel', 'phase_6/models/neighborhoods/minnies_melody_land.ba', '92', '-30', '8']
+Traceback (most recent call last):
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1484, in handlePlayGame
+    self.handleUpdateField(di)
+  File "otp\distributed\OTPClientRepository.py", line 2191, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "otp\distributed\OTPClientRepository.py", line 2199, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "otp\ai\MagicWordManager.py", line 49, in sendMagicWordResponse
+    model = loader.loadModel(args[1])
+  File "toontown\toonbase\ToontownLoader.py", line 72, in loadModel
+    ret = Loader.Loader.loadModel(self, *args, **kw)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\Loader.py", line 170, in loadModel
+    raise IOError, message
+IOError: Could not load model file(s): ['phase_6/models/neighborhoods/minnies_melody_land.ba']
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 239, in run
+    taskMgr.run()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1873, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1484, in handlePlayGame
+    self.handleUpdateField(di)
+  File "otp\distributed\OTPClientRepository.py", line 2191, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "otp\distributed\OTPClientRepository.py", line 2199, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "otp\ai\MagicWordManager.py", line 49, in sendMagicWordResponse
+    model = loader.loadModel(args[1])
+  File "toontown\toonbase\ToontownLoader.py", line 72, in loadModel
+    ret = Loader.Loader.loadModel(self, *args, **kw)
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\showbase\Loader.py", line 170, in loadModel
+    raise IOError, message
+IOError: Could not load model file(s): ['phase_6/models/neighborhoods/minnies_melody_land.ba']

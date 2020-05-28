@@ -1,0 +1,48 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2E4B60A8>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+frame rate: 113.6 fps|0.003d|0 avs||330|335||0x10de|0x11c8|485.1MB|528.8MB|8136.0MB|1177|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+Current position= (-81.434,  -98.931,  0.025), H: 164.700, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-81.295,  -93.667,  0.025), H: 179.280, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-86.612,  -86.293,  0.025), H: 82.094, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-86.612,  -86.293,  0.025), H: 87.499, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-86.612,  -86.293,  0.025), H: 81.952, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-86.612,  -86.293,  0.025), H: 97.368, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-86.612,  -86.293,  0.025), H: 92.824, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-87.195,  -90.892,  0.025), H: 172.764, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-87.706,  -94.911,  0.025), H: 172.764, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-88.190,  -98.721,  0.025), H: 172.764, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-88.628,  -102.172,  0.025), H: 172.764, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-87.393,  -92.451,  0.025), H: 172.764, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-87.887,  -96.340,  0.025), H: 172.764, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-88.398,  -100.364,  0.025), H: 172.764, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-88.814,  -103.638,  0.025), H: 172.764, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-89.313,  -107.163,  0.025), H: 172.764, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-87.844,  -94.624,  0.025), H: 86.267, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-85.877,  -94.752,  0.025), H: 86.267, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-83.958,  -94.877,  0.025), H: 93.244, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-83.958,  -94.877,  0.025), H: 93.244, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-90.901,  -95.271,  0.025), H: 93.244, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+Current position= (-104.839,  -97.137,  0.025), H: 267.034, Zone: 61000,, Ver: tti-retro-dev, , District: Retroville
+frame rate: 95.6 fps|0.002d|0 avs||630|635||0x10de|0x11c8|485.3MB|528.9MB|8136.0MB|1186|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL

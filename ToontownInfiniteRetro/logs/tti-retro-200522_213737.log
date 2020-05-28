@@ -1,0 +1,40 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x235860A8>}
+entering active SC menu
+local
+0
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_5.5/dna/storage_estate.dna
+Reading DNA file... phase_5.5/dna/estate_1.dna
+cam pos =  LPoint3f(0, -9, 4.62334) , cam hpr =  LVecBase3f(0, -8.78858, 0)
+frame rate: 79.2 fps|0.005d|0 avs||330|335||0x10de|0x11c8|498.3MB|541.6MB|8136.0MB|1219|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+Traceback (most recent call last):
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\DistributedSmoothNodeBase.py", line 110, in _posHprBroadcast
+    self.d_broadcastPosHpr()
+ValueError: Node position out of range for DC file: render/Menes Suecos-100000012 pos = -80.2276 -89.4259 7208.51 hpr = 0 180 0 zoneId = 0
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 239, in run
+    taskMgr.run()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\task\Task.py", line 502, in run
+    self.step()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\direct\distributed\DistributedSmoothNodeBase.py", line 110, in _posHprBroadcast
+    self.d_broadcastPosHpr()
+ValueError: Node position out of range for DC file: render/Menes Suecos-100000012 pos = -80.2276 -89.4259 7208.51 hpr = 0 180 0 zoneId = 0
