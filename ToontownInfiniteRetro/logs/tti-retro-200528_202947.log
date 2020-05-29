@@ -1,0 +1,97 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x2F4BF238>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 6
+    def test(i)
+              ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 6
+    def test(i)
+              ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 6
+    def test(i)
+              ^
+SyntaxError: invalid syntax
+
+frame rate: 86.7 fps|0.003d|2 avs||332|337||0x10de|0x11c8|414.2MB|472.1MB|8136.0MB|974|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 62.8 fps|0.002d|2 avs||632|637||0x10de|0x11c8|416.0MB|473.8MB|8136.0MB|976|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 18
+    b1 = DirectButton(text = ("C.Off", "c.off", "c.off", "C.Off"), scale=.06, pos = (-.98,-0,-.95), command=lambda:stop=False)
+                                                                                                                       ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 20
+    b1 = DirectButton(text = ("C.Off", "c.off", "c.off", "C.Off"), scale=.06, pos = (-.98,-0,-.95), command=lambda:stop=False)
+                                                                                                                       ^
+SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 20
+    b1 = DirectButton(text = ("C.Off", "c.off", "c.off", "C.Off"), scale=.06, pos = (-.98,-0,-.95), command=lambda:stop=False)
+                                                                                                                       ^
+SyntaxError: invalid syntax
+
+frame rate: 60.5 fps|0.010d|2 avs||932|937||0x10de|0x11c8|416.4MB|474.1MB|8136.0MB|976|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 5, in <module>
+AttributeError: 'DirectButton' object has no attribute 'disable'
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 5, in <module>
+AttributeError: 'DirectButton' object has no attribute 'enable'
+
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "<string>", line 5, in <module>
+AttributeError: 'DirectButton' object has no attribute 'delete'
+
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+ignoring InputState-forward
+Exception in thread Thread-998:
+Traceback (most recent call last):
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\threading.py", line 808, in __bootstrap_inner
+    self.run()
+  File "D:\Usuario\Downloads\tts\TTISource\Panda3D-1.9.0\python\lib\threading.py", line 761, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "<string>", line 14, in <lambda>
+  File "<string>", line 13, in test
+  File "otp\chat\TalkAssistant.py", line 615, in sendOpenTalk
+    doId = base.localAvatar.doId
+AttributeError: ToonBase instance has no attribute 'localAvatar'
+

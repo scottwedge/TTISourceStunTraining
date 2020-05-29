@@ -1,0 +1,55 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  tti-retro-dev
+Preloading avatars...
+Done preloading avatars.
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x23775238>}
+entering active SC menu
+local
+1
+Reading DNA file... phase_4/dna/storage.dna
+Reading DNA file... phase_3.5/dna/storage_interior.dna
+0.0 5.83750009537 -1.20000004768 0.800000011921
+LPoint3f(-3.48575, 0.05, -2.9)
+updating achievements page
+updating achievements page
+updating achievements page
+updating achievements page
+frame rate: 48.6 fps|0.006d|13 avs||367|374||0x10de|0x11c8|507.8MB|566.5MB|8136.0MB|1061|nt.2.6.2|3.601,1.800|4,8 cpus|OpenGL
+frame rate: 45.4 fps|0.005d|13 avs||667|674||0x10de|0x11c8|539.5MB|598.5MB|8136.0MB|1069|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 42.4 fps|0.005d|13 avs||967|974||0x10de|0x11c8|565.7MB|625.3MB|8136.0MB|1075|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 45.2 fps|0.006d|13 avs||1267|1274||0x10de|0x11c8|598.2MB|657.8MB|8136.0MB|1084|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 41.8 fps|0.005d|13 avs||1567|1574||0x10de|0x11c8|619.1MB|679.4MB|8136.0MB|1089|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 47.9 fps|0.005d|13 avs||1867|1874||0x10de|0x11c8|639.7MB|700.4MB|8136.0MB|1095|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 42.9 fps|0.004d|13 avs||2167|2174||0x10de|0x11c8|551.6MB|733.3MB|8136.0MB|1104|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 36.0 fps|0.006d|13 avs||2467|2474||0x10de|0x11c8|451.6MB|757.4MB|8136.0MB|1129|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 43.8 fps|0.005d|13 avs||2767|2774||0x10de|0x11c8|438.5MB|779.5MB|8136.0MB|1135|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 39.2 fps|0.007d|13 avs||3067|3074||0x10de|0x11c8|451.2MB|812.4MB|8136.0MB|1143|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 37.7 fps|0.004d|13 avs||3367|3374||0x10de|0x11c8|430.7MB|832.4MB|8136.0MB|1149|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 42.3 fps|0.005d|13 avs||3667|3674||0x10de|0x11c8|442.2MB|864.3MB|8136.0MB|1170|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 37.0 fps|0.006d|13 avs||3967|3974||0x10de|0x11c8|446.9MB|884.6MB|8136.0MB|1175|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+Reading DNA file... phase_8/dna/storage_BR.dna
+Reading DNA file... phase_8/dna/storage_BR_sz.dna
+Reading DNA file... phase_8/dna/the_burrrgh_sz.dna
+empty flat building with no walls
+DNALandmarkBuilding sb11:toon_landmark_BR_pet_shop_DNARoot did not find **/*suit_building_origin
+fisherman origin:  render/loader_data/theBurrrgh/fishing_pond_1/npc_fisherman_origin_0
+frame rate: 51.3 fps|0.001d|1 avs||4267|4274||0x10de|0x11c8|508.2MB|920.1MB|8136.0MB|1218|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+frame rate: 59.0 fps|0.001d|1 avs||4567|4574||0x10de|0x11c8|508.5MB|920.1MB|8136.0MB|1218|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Reading DNA file... phase_4/dna/storage_TT.dna
+Reading DNA file... phase_4/dna/storage_TT_sz.dna
+Reading DNA file... phase_4/dna/toontown_central_sz.dna
+fisherman origin:  render/loader_data/toontownCentral/fishing_pond_1/npc_fisherman_origin_0
+updating achievements page
+frame rate: 57.8 fps|0.002d|2 avs||4867|4874||0x10de|0x11c8|527.6MB|932.8MB|8136.0MB|1314|nt.2.6.2|3.601,3.601|4,8 cpus|OpenGL

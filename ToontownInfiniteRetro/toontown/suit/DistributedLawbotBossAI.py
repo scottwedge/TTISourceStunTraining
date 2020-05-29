@@ -740,6 +740,8 @@ class DistributedLawbotBossAI(DistributedBossCogAI.DistributedBossCogAI, FSM.FSM
         self.takeAwayPies()
 
     def enterDefeat(self):
+        self.b_setState('PrepareBattleThree')
+        return
         self.resetBattles()
         self.barrier = self.beginBarrier('Defeat', self.involvedToons, 10, self.__doneDefeat)
 

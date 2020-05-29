@@ -54,4 +54,4 @@ class MagicWordManager(DistributedObject.DistributedObject):
                 model.reparentTo(render)
                 model.setPos(float(args[2]),float(args[3]),float(args[4]))
             return
-        base.localAvatar.setSystemMessage(0, 'Spellbook: ' + str(response))
+        #base.localAvatar.setSystemMessage(0, 'Spellbook: ' + str(response))
