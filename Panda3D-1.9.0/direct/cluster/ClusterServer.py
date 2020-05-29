@@ -306,7 +306,7 @@ class ClusterServer(DirectObject.DirectObject):
             else:
                 self.objectMappings[name].show()
         else:
-            self.notify.debug("recieved unknown named object command: "+name)
+            self.notify.debug("received unknown named object command: "+name)
 
 
     def handleMessageQueue(self):
